@@ -20,12 +20,6 @@
 
 - 📈 Consistently working towards becoming placement & industry ready
 
-## 📊 GitHub Stats  
-
-![Followers](https://img.shields.io/github/followers/Anvesh-999?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Anvesh-999?style=for-the-badge)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/Anvesh-999?style=for-the-badge)
-
 
 ## 🌐 Connect With Me  
 
