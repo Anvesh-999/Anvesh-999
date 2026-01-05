@@ -22,11 +22,9 @@
 
 ## 📊 GitHub Stats  
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anvesh-999&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-</p>
-
+![Followers](https://img.shields.io/github/followers/Anvesh-999?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Anvesh-999?style=for-the-badge)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/Anvesh-999?style=for-the-badge)
 
 
 ## 🌐 Connect With Me  
