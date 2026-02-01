@@ -3,7 +3,7 @@
 
 🎓 B.Tech Pre-Final Year | CSE (AI & ML Specialization)
 
-💻 Full Stack Web Developer | 🧠 DSA Learner (Java)
+💻 Full Stack Web Developer | 🧠 DSA (Java)
 
 🌱 Passionate about building projects and improving problem-solving skills
 
