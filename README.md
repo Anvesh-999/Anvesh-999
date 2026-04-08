@@ -22,5 +22,5 @@
 ## 🌐 Connect With Me  
 
 - 💼 **LinkedIn:** [Anvesh Anumolu](https://www.linkedin.com/in/anvesh-anumolu-472a66291/)
-- 📧 **Email:** [anvesh.a9100@gmail.com](mailto:anvesh.a9100@gmail.com)
+- 📧 **Email:** [anumoluanvesh9@gmail.com](mailto:anumoluanvesh9@gmail.com)
 
