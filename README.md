@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Anvesh
 
 
-🎓 B.Tech Pre-Final Year | CSE (AI & ML Specialization)
+🎓 Final Year B.Tech Student | CSE (AI & ML Specialization)
 
 💻 Full Stack Web Developer | 🧠 DSA (Java)
 
